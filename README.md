@@ -1,2 +1,3 @@
-# Realsense QR code detection
-This package is a ROS wrapper for the QR code detection algorithm using the Intel Realsense D435/D455/D405 camera. Find the python code in the scripts folder.
+# Collaborative Cooking
+This package provides the code for a collaborative cooking scenario. As a mobile manipulation platform, the Ridgeback from Clearpath and the Franka Emika Panda are used. 
+Find the Python code in the scripts folder.
